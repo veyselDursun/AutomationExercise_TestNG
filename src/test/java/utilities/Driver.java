@@ -97,11 +97,3 @@ public class Driver {
         }
     }
 }
-
-
-    git init
-    git add .
-        git commit -m "TestCases"
-        git branch -M main
-        git remote add origin https://github.com/veyselDursun/AutomationExercise_TestNG.git
-        git push -u origin main
